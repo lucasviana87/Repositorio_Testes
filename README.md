@@ -1,2 +1,2 @@
-# Reposítório dedicado a Teste de Git e Github.
+# Repositório dedicado a Teste de Git e Github.
 
